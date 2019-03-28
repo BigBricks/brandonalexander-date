@@ -1,0 +1,7 @@
+{
+  "name": "@brandonalexander/date",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "brandonalexander-date",
+  "main": "index.js"
+}
